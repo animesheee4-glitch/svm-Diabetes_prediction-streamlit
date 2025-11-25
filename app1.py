@@ -82,4 +82,4 @@ if st.button("Calculate Age"):
         if today.month == dob.month and today.day == dob.day:
             st.balloons()
             st.snow()
-            st.success("🎉 Happy Birthday! Don’t forget to share cake 🍰")
+            st.success("🎉 Happy Birthday! Don’t forget to share cake 🍰") 
